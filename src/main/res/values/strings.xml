@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Borger Kong</string>
+    <string name="view_order">View Order</string>
+    <string name="name">Name</string>
+    <string name="price">Price($)</string>
+    <string name="description">Description</string>
+    <string name="add_button">+</string>
+    <string name="_0">0</string>
+    <string name="minus_button">-</string>
+    <string name="confirm">Confirm</string>
+    <string name="todo">TODO</string>
+    <string name="my_order_overview">My Order Overview</string>
+    <string name="order_total">Order Total</string>
+    <string name="total">Total</string>
+
+    <string name="price_1">Price</string>
+    <string name="number">Number</string>
+    <string name="menu">Menu</string>
+    <string name="textview">TextView</string>
+    <string name="borger_kong_menu">Borger Kong Menu</string>
+    <string name="space" />
+</resources>
